@@ -1,0 +1,17 @@
+[
+  {
+    "id": "01409918-4538-4e08-81f7-039d427cddc3",
+    "email": "sb@sb.com",
+    "todoString": "first ToDo of sb@sb.com"
+  },
+  {
+    "id": "a0a3503a-e3c2-4b13-8996-6b9ab38fd459",
+    "email": "sb2@sb.com",
+    "todoString": "first ToDo of sb2@sb.com"
+  },
+  {
+    "id": "2a9d2eb0-5756-4053-b6a4-d96feabbdcb9",
+    "email": "sb3@sb.com",
+    "todoString": "first ToDo of sb3@sb.com"
+  }
+]
